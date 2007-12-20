@@ -11,6 +11,7 @@ License: GPL
 Group: Development/Other
 Source: ftp://ftp.tu-darmstadt.de/pub/programming/languages/C++/tools/flex++bison++/LATEST/%{name}-%{version}.tar.bz2
 Patch0: bison++.cflags.patch.bz2
+Buildroot: %{_tmppath}/%{name}-buildroot
 
 %description
 Bison is a general purpose parser generator which converts a grammar
