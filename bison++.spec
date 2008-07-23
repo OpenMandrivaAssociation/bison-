@@ -1,7 +1,7 @@
 %define name bison++
 %define version 1.21.8
 %define prefix %{_prefix}
-%define release %mkrel 6
+%define release %mkrel 8
 
 Name: %{name}
 Summary: A GNU general-purpose parser generator for C++
