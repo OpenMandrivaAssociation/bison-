@@ -1,2 +1,3 @@
 sources:
-  "bison++-1.21.8.tar.bz2:"	7673c74af6fc237bcc8101ae072d80be92e668df
+  "bison++-1.21.8.tar.bz2": 7673c74af6fc237bcc8101ae072d80be92e668df
+  "bison++.cflags.patch.bz2": 3cc5db453d7a051705efa3710e47eec2d5235ceb
